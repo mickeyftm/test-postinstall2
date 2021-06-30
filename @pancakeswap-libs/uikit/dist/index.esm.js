@@ -2867,11 +2867,6 @@ var connectors = [
     //     icon: Icon$19,
     //     connectorId: ConnectorNames.BSC,
     // },
-    {
-        title: "SafePal Wallet",
-        icon: Icon$1a,
-        connectorId: ConnectorNames.Injected,
-    },
 ];
 var connectorLocalStorageKey = "connectorId";
 
