@@ -90,7 +90,7 @@
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
     "lint:fix": "eslint 'src/**/*.{js,jsx,ts,tsx}' --fix",
     "integration-test": "start-server-and-test 'serve build -l 3000' http://localhost:3000 'cypress run'",
-     "postinstall": "cp -r ./uikit ./node_modules/@pancakeswap-libs && cp -r ./sdk ./node_modules/@pancakeswap-libs"   
+    "postinstall": "cp -r ./@pancakeswap-libs ./node_modules"   
 },
   "husky": {
     "hooks": {
