@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://KandySwap.com',
+    href: 'https://test-postinstall.vercel.app/',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://KandySwap.com/farms',
+    href: 'https://test-postinstall.vercel.app/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://KandySwap.com/syrup',
+    href: 'https://test-postinstall.vercel.app/pools',
   },
   // {
   //   label: 'Lottery',
@@ -85,7 +85,7 @@ const config: MenuEntry[] = [
   {
     label: 'IFO',
     icon: 'IfoIcon',
-    href: 'https://KandySwap.com/ifo',
+    href: 'https://test-postinstall.vercel.app/ifo',
   },
   // {
   //   label: 'More',
